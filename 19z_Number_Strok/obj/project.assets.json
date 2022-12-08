@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\dop1\\dop1.csproj",
+      "projectUniqueName": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\19z_Number_Strok\\dop1.csproj",
       "projectName": "dop1",
-      "projectPath": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\dop1\\dop1.csproj",
+      "projectPath": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\19z_Number_Strok\\dop1.csproj",
       "packagesPath": "C:\\Users\\Original\\.nuget\\packages\\",
-      "outputPath": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\dop1\\obj\\",
+      "outputPath": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\19z_Number_Strok\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Original\\AppData\\Roaming\\NuGet\\NuGet.Config"
