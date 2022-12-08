@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kaa006\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Original\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kaa006\\Desktop\\GB\\Знакомство с программированием\\3semDZ\\dop1\\dop1.csproj",
+      "projectUniqueName": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\dop1\\dop1.csproj",
       "projectName": "dop1",
-      "projectPath": "C:\\Users\\kaa006\\Desktop\\GB\\Знакомство с программированием\\3semDZ\\dop1\\dop1.csproj",
-      "packagesPath": "C:\\Users\\kaa006\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kaa006\\Desktop\\GB\\Знакомство с программированием\\3semDZ\\dop1\\obj\\",
+      "projectPath": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\dop1\\dop1.csproj",
+      "packagesPath": "C:\\Users\\Original\\.nuget\\packages\\",
+      "outputPath": "E:\\GeekBrains Сетевой инженер\\Пакет разработчик\\Знакомство с языками программирования\\Семинары\\3semDZ\\dop1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\kaa006\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Original\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
